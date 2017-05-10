@@ -2,7 +2,7 @@
 Sudoku Spoiler can solve and generate any classic sudoku puzzle.
 
 Usage:
--To generate a sudoku puzzle, execute with argument 'generate'.
+* To generate a sudoku puzzle, execute with argument 'generate'.
 -To solve a given puzzle, execute with 'solve filename' arguments,
 where filename stands for the file where a given sudoku puzzle is
 stored.
