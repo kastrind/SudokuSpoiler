@@ -1,4 +1,4 @@
-# SudokuSpoiler
+# SudokuSpoiler ![alt text](https://github.com/kastrind/SudokuSpoiler/blob/master/sudospoiler.ico "SudokuSpoiler")
 Sudoku Spoiler can solve and generate any classic sudoku puzzle.
 
 Usage:
