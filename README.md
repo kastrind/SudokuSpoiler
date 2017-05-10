@@ -7,15 +7,26 @@ Usage:
 where filename stands for the file where a given sudoku puzzle is
 stored.
 -The provided sudoku puzzle must be stored as follows:
-	060080003
-	050000207
-	130000004
-	000008600
-	000475030
-	720001000
-	000000000
-	580004100
-	006000050, where '0' stands for an empty cell.
+
+060080003
+
+050000207
+
+130000004
+
+000008600
+
+000475030
+
+720001000
+
+000000000
+
+580004100
+
+006000050
+
+where '0' stands for an empty cell.
   
 -To save the results in a file, provide its filename at the end
 of your command, e.g. 'solve this.txt to.txt'.
